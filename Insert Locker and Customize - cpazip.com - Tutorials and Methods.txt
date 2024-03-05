@@ -1,0 +1,33 @@
+To install the content locker url on the HTML, edit Index.html and search for "LOCKERURL"
+Then replace with your content locker URL and you're done. 
+
+You can also do this,
+Press Control + F to search
+paste this > LOCKERURL
+
+You will find where to paste your locker URL
+
+Example:
+href="LOCKERURL"
+
+should look like this:
+href="https://verifyzone.com/locker12123312"
+
+
+You can edit your landing page to fit with your game if you need :)
+
+
+Collection of CPA Landing Pages and Methods:
+https://cpazip.com
+
+How to customize it the landing page:
+https://cpazip.com/customize-cpa-landing-page/
+
+
+
+Created by CPAZip.com- Free Landing Pages and CPA Methods
+___ _ __   __ _ ___(_)_ __   ___ ___  _ __ ___  
+ / __| '_ \ / _` |_  / | '_ \ / __/ _ \| '_ ` _ \ 
+| (__| |_) | (_| |/ /| | |_) | (_| (_) | | | | | |
+ \___| .__/ \__,_/___|_| .__(_)___\___/|_| |_| |_|
+     |_|               |_|                        
